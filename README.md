@@ -125,5 +125,9 @@ virtual-lab/
 **Khushal Durand**  
 Coding Club, IIT Guwahati
 
+**Certification**  
+<img width="932" height="658" alt="Khushal Durand VirtualLab" src="https://github.com/user-attachments/assets/1401d1cd-761d-4e80-9a59-35a945bab862" />
+
+
 - Email: d.khushal@iitg.ac.in
 - GitHub: https://github.com/ikhushaldurand
